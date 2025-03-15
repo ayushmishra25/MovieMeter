@@ -2,7 +2,7 @@
 
 MovieMeter is a React-based web application that provides detailed information about movies using The Movie Database (TMDB) API. Users can browse movies, view detailed descriptions, and read reviews.
 
-## 🚀 Live Demo
+## 🚀 Screenshots pf Project
 
 ### FRONT PAGE BANNER PART 
 ![Screenshot 2025-03-15 080921](https://github.com/user-attachments/assets/eca3a43f-42f9-4e83-8de8-d4c13d2298a7)
@@ -48,9 +48,6 @@ npm install
 ```bash
 npm run dev
 ```
-
-## 📷 Screenshots
-_Add relevant screenshots here_
 
 ## 🏗 Project Structure
 ```
