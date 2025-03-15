@@ -76,8 +76,10 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-For any inquiries, reach out to:
-- **GitHub** - [ayushmishra25](https://github.com/ayushmishra25)
+
+#### Name: Ayush Mishra
+#### Email: ayushmishrarkt2345@gmail.com
+#### GitHub: ayushmishra25
 
 ---
 
