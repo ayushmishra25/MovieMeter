@@ -11,8 +11,7 @@ MovieMeter is a React-based web application that provides detailed information a
 ![Screenshot 2025-03-15 080946](https://github.com/user-attachments/assets/de14706a-c18c-4ca1-b1c1-2eb8f4ad11a7)
 
 ### DETAILS PAGE OF MOVIE
-![details](https://github.com/user-attachments/assets/de14706a-c18c-4ca1-b1c1-2eb8f4ad11a7)
-
+![details](https://github.com/ayushmishra25/MovieMeter/blob/554984cf73591f70bdf710bbd29b156a9b9518d3/screenshots%20of%20project/details.png)
 
 
 ## 📥 Clone the Repository
