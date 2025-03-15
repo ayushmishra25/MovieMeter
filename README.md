@@ -11,7 +11,9 @@ MovieMeter is a React-based web application that provides detailed information a
 ![Screenshot 2025-03-15 080946](https://github.com/user-attachments/assets/de14706a-c18c-4ca1-b1c1-2eb8f4ad11a7)
 
 ### DETAILS PAGE OF MOVIE
-screenshots of project/Screenshot 2025-03-15 081003.png
+![Screenshot 2025-03-15 081003]
+
+
 
 ## 📥 Clone the Repository
 ```bash
@@ -39,11 +41,13 @@ npm install
 ```
 2. Create a `.env` file in the root directory and add your TMDB API key:
 ```bash
-REACT_APP_TMDB_API_KEY=your_api_key_here
+  VITE_API_KEY=your_api_key_here
+  VITE_TMDB_API_BASE_URL = your_api_base_url_here
+  VITE_GA_MEASUREMENT_ID=your_GA_measurement_id_here
 ```
 3. Start the development server:
 ```bash
-npm start
+npm run dev
 ```
 
 ## 📷 Screenshots
@@ -77,4 +81,4 @@ For any inquiries, reach out to:
 - **GitHub** - [ayushmishra25](https://github.com/ayushmishra25)
 
 ---
-Made with ❤️ by Ayush Mishra
+
