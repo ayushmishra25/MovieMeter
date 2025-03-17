@@ -2,7 +2,7 @@
 
 MovieMeter is a React-based web application that provides detailed information about movies using The Movie Database (TMDB) API. Users can browse movies, view detailed descriptions, and read reviews.
 
-## 🚀 Live Demo
+## 🚀 Screenshots pf Project
 
 ### FRONT PAGE BANNER PART 
 ![Screenshot 2025-03-15 080921](https://github.com/user-attachments/assets/eca3a43f-42f9-4e83-8de8-d4c13d2298a7)
@@ -11,8 +11,7 @@ MovieMeter is a React-based web application that provides detailed information a
 ![Screenshot 2025-03-15 080946](https://github.com/user-attachments/assets/de14706a-c18c-4ca1-b1c1-2eb8f4ad11a7)
 
 ### DETAILS PAGE OF MOVIE
-![Screenshot 2025-03-15 081003]
-
+![details](https://github.com/ayushmishra25/MovieMeter/blob/554984cf73591f70bdf710bbd29b156a9b9518d3/screenshots%20of%20project/details.png)
 
 
 ## 📥 Clone the Repository
@@ -50,9 +49,6 @@ npm install
 npm run dev
 ```
 
-## 📷 Screenshots
-_Add relevant screenshots here_
-
 ## 🏗 Project Structure
 ```
 /MovieMeter
@@ -77,8 +73,10 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-For any inquiries, reach out to:
-- **GitHub** - [ayushmishra25](https://github.com/ayushmishra25)
+
+#### Name: Ayush Mishra
+#### Email: ayushmishrarkt2345@gmail.com
+#### GitHub: ayushmishra25
 
 ---
 
